@@ -1,6 +1,6 @@
 # Oscar’s Multiplication Game
 
-**Inspiration:** A beginner-friendly math flashcard tool I use with elementary school students that I currently tutor.
+**Inspiration:** A beginner-friendly math flashcard tool I can use with elementary school students that I currently tutor.
 
 ## Project Summary
 Oscar’s Multiplication Game helps students practice multiplication facts (2×2 through 12×12) in an interactive way. It gives immediate feedback, tracks correct/total answers, awards virtual coins, and lets students mark known cards.
